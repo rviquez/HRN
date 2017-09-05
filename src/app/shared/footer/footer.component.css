@@ -1,0 +1,21 @@
+footer{
+  background-color: black;
+  color: #ffffff;
+  padding: 15px 0 15px 0;
+}
+.footer img{
+  height: 22px;
+  width: 240px;
+}
+.footer .row{
+  padding-top: 20px;
+}
+.footer a{
+  color: #ffffff;
+}
+.footer .list-inline{
+  margin-bottom: 0;
+}
+.footer ul{
+  list-style-type: none;
+}
